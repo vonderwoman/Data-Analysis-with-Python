@@ -99,7 +99,37 @@ Youth Global Unemployment Rate information: unemployment is a significant indica
 
  
 
+ # Fun-Corp-Analysis
+Using Python Libraries, the company's dataset was analyzed and visualized to give insight of their performance
+
+Needed for the project
+
+Ø  Import Libraries and Load Dataset
+
+Ø  Explore Dataset
+
+Ø  Data Preparation & Analysis
+
+Ø  Deep dive & Visualization
+
  
+
+Tasks
+
+Ø  What was the highest sales in 2020?
+
+Ø  What is average discount rate of Charis?
+
+Ø  Add extra columns to separate Year & Month from the Order Date
+
+Ø  Add a new column to calculate the Profit Margin for each sales record
+
+Ø  Export manipulated data frame to excel
+
+Ø  Create a new data frame to reflect total profit & sales by sub-category
+
+Ø  Develop a function, to return a data frame which is grouped by a particular column(as an input)
+
 
  
 
