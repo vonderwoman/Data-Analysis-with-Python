@@ -1,7 +1,7 @@
 # Data-Analysis-with-Python
 Data analysis projects
 
-Data Analysis 
+**Data Analysis**
 
 In a world increasingly centralized around information technology, huge amounts of data are produced and stored each day. Often these data come from automatic detection systems, sensors, and scientific instrumentation, or you produce them daily and unconsciously every time you make a withdrawal from the bank or make a purchase, when you record on various blogs, or even when you post on social networks (Nelli,2015). 
 
@@ -19,7 +19,7 @@ Objective
 
 In this project, concepts like visual analysis,hypothesis testing and time series analysis will be done to the data. 
 
-Associated Tasks 
+**Associated Tasks** 
 
 Data processing 
 
@@ -33,13 +33,9 @@ Hypothesis testing
 
  -Hypothesis testing on registered rides 
 
- 
-
- 
 
 Analysis of weather-related features(pearson and spearman correlations used) 
 
- 
 
 Time Series Analysis 
 
@@ -55,9 +51,7 @@ Arima Models
 
  
 
-Youth Global Unemployment Rate Project 
-
- 
+***Youth Global Unemployment Rate Project***
 
 Stucture used in this project 
 
