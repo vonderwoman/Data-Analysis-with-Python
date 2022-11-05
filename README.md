@@ -21,27 +21,27 @@ In this project, concepts like visual analysis,hypothesis testing and time serie
 
 **Associated Tasks** 
 
-Data processing 
+***Data processing 
 
     -preprocessing temporal and weather features 
 
    -Registered versus casual use analysis 
 
-+Hypothesis testing
+***Hypothesis testing
 
   -Estimating average registered rides 
 
  -Hypothesis testing on registered rides 
 
 
-Analysis of weather-related features(pearson and spearman correlations used) 
+***Analysis of weather-related features(pearson and spearman correlations used) 
 
 
-Time Series Analysis 
+***Time Series Analysis 
 
   -Time series decomposition in trends,seasonality and residual components 
 
-Arima Models 
+***Arima Models 
 
   -ACF and PACF plots for Registered rides 
 
