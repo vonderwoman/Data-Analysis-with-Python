@@ -7,7 +7,7 @@ In a world increasingly centralized around information technology, huge amounts 
 
 But what are the data? The data actually are not information, at least in terms of their form. In the formless stream of bytes, at first glance it is difficult to understand their essence if not strictly the number, word, or time that they report. Information is actually the result of processing, which taking into account a certain set of data, extracts some conclusions that can be used in various ways. This process of extracting information from the raw data is precisely data analysis (Nelli,2015). 
 
-Tools used 
+**Tools used**
 
 Anaconda(jupyter notebook) 
 
@@ -15,7 +15,7 @@ Anaconda(jupyter notebook)
 
 This project is about analyzing data from bike sharing project and identify usage patterns depending on time features and weather conditions. 
 
-Objective 
+**Objective** 
 
 In this project, concepts like visual analysis,hypothesis testing and time series analysis will be done to the data. 
 
@@ -27,7 +27,7 @@ Data processing
 
    -Registered versus casual use analysis 
 
-Hypothesis testing 
++Hypothesis testing
 
   -Estimating average registered rides 
 
