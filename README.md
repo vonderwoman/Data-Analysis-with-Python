@@ -37,19 +37,6 @@ In this project, concepts like visual analysis,hypothesis testing and time serie
 ***Analysis of weather-related features(pearson and spearman correlations used)*** 
 
 
-***Time Series Analysis*** 
-
-  -Time series decomposition in trends,seasonality and residual components 
-
-***Arima Models***
-
-  -ACF and PACF plots for Registered rides 
-
--Investigating  the impact of weather conditions on rides 
-
- 
-
- 
 
 # Youth Global Unemployment Rate Project
 
