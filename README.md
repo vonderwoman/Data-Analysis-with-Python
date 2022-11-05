@@ -41,53 +41,6 @@ Bike-sharing rental process is highly correlated to the environmental and season
 		For instance, query like "2012-10-30 washington d.c." in Google returns related results to Hurricane Sandy. Some of the important events are identified in [1]. Therefore the data can be used for validation of anomaly or event detection algorithms as well. 
 		
 
-# Youth Global Unemployment Rate Project
-
-**Stucture used in this project**
-
--Understanding the data set 
-
--Understanding the problem statement  
-
--Importing the dataset into DataFrame  
-
--Exploring, selecting, cleaning, and preparing the data 
-
- -Performing the data analysis and plotting the summary 
-
-**Objectives** 
-
--Understanding how to solve real-time data analysis problems  
-
--Reading and analyzing the data from an external file  
-
--Finding answers by analyzing the data and plotting the results 
-
-
-
-**Overview of our Dataset** 
-
-Our dataset will be taken from the World Bank (https://data.worldbank.org/).  
-
-Youth Global Unemployment Rate information: unemployment is a significant indicator. This data set contains 267 countries’ youth unemployment information from 1991 to 2021. This dataset has the following columns: ‘Country Name’, ‘Country Code’, ‘1991’, ‘1992’, ‘1993’, ‘1994’, ‘1995’, ‘1996’, ‘1997’, ‘1998’, ‘1999’, ‘2000’, ‘2001’, ‘2002’, ‘2003’, ‘2004’, ‘2005’, ‘2006’, ‘2007’, ‘2008’, ‘2009’, ‘2010’, ‘2011’, ‘2012’, ‘2013’, ‘2014’, ‘2015’, ‘2016’, ‘2017’, ‘2018’, ‘2019’, ‘2020’, ‘2021 Country Name column contains the name of the country, the Country Code has the three character country code, and the rest of the columns with year (like 1991,1992….2021) contain the unemployment rate for that particular year. 
-
-**Problem statements** 
-
--We need to analyze the youth global unemployment dataset for the last five years, from 2017 to 2021, to get the answers for the following points and plot the results: 
-
- -List all the countries where youth unemployment is greater than or equal to 25% in 2021. 
-
- -List all countries where youth unemployment is less than or equal to 1% in 2021.  
-
--Top 10 countries that have an average high rate of youth unemployment from 2017 to 2021  
-
--Top 10 countries that have an average low rate of youth unemployment from 2017 to 2021  
-
--Top 10 countries that have a high COVID impact (for years 2019 and 2020)  
-
--Top 10 countries that have a less COVID impact (for years 2019 and 2020) 
-
- 
 
  # Fun-Corp-Analysis
 Using Python Libraries, the company's dataset was analyzed and visualized to give insight of their performance
@@ -152,6 +105,53 @@ Further Deep Dive & Visualization
 Objective:
 Further Analysis/Deep Dive using various kind of Charts
 Generate & Export 'Ready-To-Present- Charts': Clean & Interactive
+ 
+# Youth Global Unemployment Rate Project
+
+**Stucture used in this project**
+
+-Understanding the data set 
+
+-Understanding the problem statement  
+
+-Importing the dataset into DataFrame  
+
+-Exploring, selecting, cleaning, and preparing the data 
+
+ -Performing the data analysis and plotting the summary 
+
+**Objectives** 
+
+-Understanding how to solve real-time data analysis problems  
+
+-Reading and analyzing the data from an external file  
+
+-Finding answers by analyzing the data and plotting the results 
+
+
+
+**Overview of our Dataset** 
+
+Our dataset will be taken from the World Bank (https://data.worldbank.org/).  
+
+Youth Global Unemployment Rate information: unemployment is a significant indicator. This data set contains 267 countries’ youth unemployment information from 1991 to 2021. This dataset has the following columns: ‘Country Name’, ‘Country Code’, ‘1991’, ‘1992’, ‘1993’, ‘1994’, ‘1995’, ‘1996’, ‘1997’, ‘1998’, ‘1999’, ‘2000’, ‘2001’, ‘2002’, ‘2003’, ‘2004’, ‘2005’, ‘2006’, ‘2007’, ‘2008’, ‘2009’, ‘2010’, ‘2011’, ‘2012’, ‘2013’, ‘2014’, ‘2015’, ‘2016’, ‘2017’, ‘2018’, ‘2019’, ‘2020’, ‘2021 Country Name column contains the name of the country, the Country Code has the three character country code, and the rest of the columns with year (like 1991,1992….2021) contain the unemployment rate for that particular year. 
+
+**Problem statements** 
+
+-We need to analyze the youth global unemployment dataset for the last five years, from 2017 to 2021, to get the answers for the following points and plot the results: 
+
+ -List all the countries where youth unemployment is greater than or equal to 25% in 2021. 
+
+ -List all countries where youth unemployment is less than or equal to 1% in 2021.  
+
+-Top 10 countries that have an average high rate of youth unemployment from 2017 to 2021  
+
+-Top 10 countries that have an average low rate of youth unemployment from 2017 to 2021  
+
+-Top 10 countries that have a high COVID impact (for years 2019 and 2020)  
+
+-Top 10 countries that have a less COVID impact (for years 2019 and 2020) 
+
  
 
  
