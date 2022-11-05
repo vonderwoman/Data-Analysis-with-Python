@@ -17,7 +17,7 @@ This project is about analyzing data from bike sharing project and identify usag
 
 **Objective** 
 
-In this project, concepts like visual analysis and hypothesis testing  has been imple. 
+In this project, concepts like visual analysis and hypothesis testing  has been implemented. 
 
 **Data Set**
 
