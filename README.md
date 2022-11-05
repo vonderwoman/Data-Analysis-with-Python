@@ -114,7 +114,7 @@ Needed for the project
 
  
 
-Tasks
+**Tasks**
 
 Ø  What was the highest sales in 2020?
 
@@ -140,7 +140,7 @@ Extracted Data, cleaned, Automate, Analyze and Visualize by the help of Python L
 
 Data Preperation & Analysis
 
-TASKS:
+**TASKS:**
 -Find all the unique 'Wind Speed' values in the data.
 -Find the number of times when the 'Weather is exactly Clear'.
 -Find the number of times when the 'Wind Speed was exactly 4 km/h'.
