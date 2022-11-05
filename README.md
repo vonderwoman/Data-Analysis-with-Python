@@ -75,7 +75,7 @@ In this project, concepts like visual analysis,hypothesis testing and time serie
 
 
 
-**Understanding the Dataset** 
+**Overview of our Dataset** 
 
 Our dataset will be taken from the World Bank (https://data.worldbank.org/).  
 
