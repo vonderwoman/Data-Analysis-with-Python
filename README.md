@@ -11,7 +11,7 @@ Tools used
 
 Anaconda(jupyter notebook) 
 
-**Bike sharing Project**
+#Bike sharing Project
 
 This project is about analyzing data from bike sharing project and identify usage patterns depending on time features and weather conditions. 
 
