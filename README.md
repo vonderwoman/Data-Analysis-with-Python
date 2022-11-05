@@ -1,5 +1,6 @@
 # Data-Analysis-with-Python
 Data analysis projects
+
 Data Analysis 
 
 In a world increasingly centralized around information technology, huge amounts of data are produced and stored each day. Often these data come from automatic detection systems, sensors, and scientific instrumentation, or you produce them daily and unconsciously every time you make a withdrawal from the bank or make a purchase, when you record on various blogs, or even when you post on social networks (Nelli,2015). 
